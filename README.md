@@ -4,6 +4,6 @@ This Project file has created for completing Internship Task. The Internship Pro
 
 2.Strudent Grade Calculator
 
-3.ATM Interface
+3.Student course registration system 
 
 The Internship Pogramme has offered for one month from 25 June 2024 to 25 July 2024.
